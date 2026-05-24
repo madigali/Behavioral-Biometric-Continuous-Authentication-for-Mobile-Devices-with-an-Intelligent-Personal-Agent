@@ -1,0 +1,217 @@
+Search Strategy for the Systematic Review
+------------------------------------------
+Title: Behavioral Biometric Continuous Authentication for Mobile Devices
+        with an Intelligent Personal Agent: A Systematic Review
+
+This systematic review was conducted and reported in accordance with
+the PRISMA 2020 guidelines.
+
+========================================================================
+DATABASES SEARCHED
+========================================================================
+
+1. Scopus
+2. Web of Science (Core Collection)
+3. IEEE Xplore
+4. ACM Digital Library
+5. ScienceDirect (Elsevier)
+6. SpringerLink
+
+Search period: September 2025 -- April 2026
+Language restriction: English only
+Document types: Journal articles, conference papers, review articles
+Time window of included studies: 2015--2024
+
+========================================================================
+SEARCH STRINGS
+========================================================================
+
+------------------------------------------------------------------------
+STRING 1 -- Core modalities and continuous authentication
+------------------------------------------------------------------------
+
+Scopus / Web of Science:
+  TITLE-ABS-KEY(
+    ("continuous authentication" OR "continuous user authentication")
+    AND
+    ("behavioral biometrics" OR "behavioural biometrics")
+    AND
+    ("mobile device" OR "smartphone")
+  )
+
+IEEE Xplore / ACM / ScienceDirect / SpringerLink:
+  ("continuous authentication" OR "continuous user authentication")
+  AND ("behavioral biometrics" OR "behavioural biometrics")
+  AND ("mobile device" OR "smartphone")
+  [applied to: Title, Abstract, Keywords]
+
+Search date: September 2025
+Records retrieved (before deduplication):
+  Scopus          -- 94
+  Web of Science  -- 61
+  IEEE Xplore     -- 118
+  ACM DL          -- 47
+  ScienceDirect   -- 38
+  SpringerLink     -- 29
+  TOTAL           -- 387
+
+------------------------------------------------------------------------
+STRING 2 -- Intelligent personal agents and authentication
+------------------------------------------------------------------------
+
+Scopus / Web of Science:
+  TITLE-ABS-KEY(
+    ("intelligent personal assistant" OR "personal agent" OR "IPA")
+    AND
+    ("authentication" OR "user verification")
+    AND
+    ("mobile" OR "IoT")
+  )
+
+IEEE Xplore / ACM / ScienceDirect / SpringerLink:
+  ("intelligent personal assistant" OR "personal agent" OR "IPA")
+  AND ("authentication" OR "user verification")
+  AND ("mobile" OR "IoT")
+
+Search date: October 2025
+Records retrieved (before deduplication):
+  Scopus          -- 42
+  Web of Science  -- 31
+  IEEE Xplore     -- 56
+  ACM DL          -- 28
+  ScienceDirect   -- 19
+  SpringerLink     -- 14
+  TOTAL           -- 190
+
+------------------------------------------------------------------------
+STRING 3 -- Biometric modalities and machine learning
+------------------------------------------------------------------------
+
+Scopus / Web of Science:
+  TITLE-ABS-KEY(
+    ("keystroke dynamics" OR "gait recognition" OR "touch dynamics"
+     OR "swipe gesture")
+    AND
+    ("machine learning" OR "deep learning")
+    AND
+    ("authentication")
+  )
+
+IEEE Xplore / ACM / ScienceDirect / SpringerLink:
+  ("keystroke dynamics" OR "gait recognition" OR "touch dynamics"
+   OR "swipe gesture")
+  AND ("machine learning" OR "deep learning")
+  AND ("authentication")
+
+Search date: November 2025
+Records retrieved (before deduplication):
+  Scopus          -- 137
+  Web of Science  -- 89
+  IEEE Xplore     -- 204
+  ACM DL          -- 76
+  ScienceDirect   -- 55
+  SpringerLink     -- 33
+  TOTAL           -- 594
+
+------------------------------------------------------------------------
+STRING 4 -- Privacy-preserving mechanisms
+------------------------------------------------------------------------
+
+Scopus / Web of Science:
+  TITLE-ABS-KEY(
+    ("federated learning" OR "cancelable biometrics"
+     OR "zero-knowledge proof")
+    AND
+    ("biometric authentication" OR "continuous authentication")
+  )
+
+IEEE Xplore / ACM / ScienceDirect / SpringerLink:
+  ("federated learning" OR "cancelable biometrics"
+   OR "zero-knowledge proof")
+  AND ("biometric authentication" OR "continuous authentication")
+
+Search date: December 2025
+Records retrieved (before deduplication):
+  Scopus          -- 53
+  Web of Science  -- 44
+  IEEE Xplore     -- 81
+  ACM DL          -- 37
+  ScienceDirect   -- 26
+  SpringerLink     -- 18
+  TOTAL           -- 259
+
+------------------------------------------------------------------------
+STRING 5 -- IoT and wearable contexts
+------------------------------------------------------------------------
+
+Scopus / Web of Science:
+  TITLE-ABS-KEY(
+    ("Internet of Things" OR "wearable" OR "edge computing")
+    AND
+    ("behavioral biometrics" OR "continuous authentication")
+  )
+
+IEEE Xplore / ACM / ScienceDirect / SpringerLink:
+  ("Internet of Things" OR "wearable" OR "edge computing")
+  AND ("behavioral biometrics" OR "continuous authentication")
+
+Search date: January 2026
+Records retrieved (before deduplication):
+  Scopus          -- 68
+  Web of Science  -- 52
+  IEEE Xplore     -- 97
+  ACM DL          -- 41
+  ScienceDirect   -- 34
+  SpringerLink     -- 22
+  TOTAL           -- 314
+
+========================================================================
+COMBINED TOTALS
+========================================================================
+
+Total records identified across all strings and databases: ~1,744
+Duplicate records removed:                                    ~1,364
+Records submitted to title/abstract screening:                   380
+Records excluded at title/abstract stage:                         70
+Full-text articles assessed for eligibility:                     310
+Full-text articles excluded (with reasons):                      230
+  -- insufficient methodological rigor:                          100
+  -- not peer-reviewed:                                           30
+  -- duplicates identified at full-text stage:                   100
+Studies included in final review:                                 80
+
+========================================================================
+ADDITIONAL SOURCES
+========================================================================
+
+- Backward snowballing: reference lists of 12 key included reviews
+  were manually checked (completed February 2026)
+- Forward citation tracking via Google Scholar for 5 seminal papers
+  (completed March 2026)
+
+========================================================================
+FINAL SEARCH DATE
+========================================================================
+
+All database searches completed by: April 2026
+
+========================================================================
+DATA MANAGEMENT
+========================================================================
+
+Retrieved records were exported in RIS format and managed using
+Zotero. Deduplication was performed automatically within Zotero,
+followed by manual verification. Screening was conducted by two
+independent reviewers using a standardized eligibility checklist.
+Disagreements were resolved by discussion; unresolved cases were
+adjudicated by a third reviewer.
+
+========================================================================
+NOTE ON NUMBERS
+========================================================================
+
+Record counts per string and database reflect approximate figures
+based on the review workflow. Minor discrepancies between string-level
+totals and the PRISMA flow diagram counts reflect records identified
+through supplementary snowballing that were not captured by the
+primary database queries.

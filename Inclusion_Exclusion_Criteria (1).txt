@@ -1,0 +1,45 @@
+Inclusion and Exclusion Criteria
+--------------------------------
+
+Inclusion Criteria:
+1. Peer-reviewed journal articles, conference proceedings, or
+   systematic literature reviews.
+2. Published between 2017 and 2025.
+3. Written in English.
+4. Focus on continuous mobile user authentication, behavioral
+   biometrics, or multimodal biometrics on smartphones/wearables.
+5. Studies employing built-in smartphone or wearable sensors
+   (accelerometer, gyroscope, magnetometer, touchscreen) explicitly
+   for user verification, identification, or authentication.
+6. Empirical studies, experimental evaluations, systematic reviews,
+   or well-founded theoretical/architectural papers.
+7. Studies involving machine learning, deep learning, or AI-based
+   classification methods for biometric authentication.
+8. Papers addressing intelligent personal assistants (IPA),
+   privacy-preserving authentication, or federated learning in the
+   context of mobile security.
+
+Exclusion Criteria:
+1. Conference abstracts, posters, editorials, book reviews, or
+   opinion pieces without empirical content.
+2. Studies not related to mobile authentication, behavioral
+   biometrics, or user security on mobile/wearable devices.
+3. Papers focusing solely on physiological biometrics
+   (fingerprint, iris, face) without behavioral or continuous
+   authentication components.
+4. Studies that do not implement a user verification or
+   authentication task on mobile or wearable platforms.
+5. Non-English publications.
+6. Duplicate records identified across databases.
+7. Papers without accessible full text.
+8. Studies with insufficient methodological rigor or lacking
+   clear performance metrics (e.g., FAR, FRR, EER, accuracy).
+
+Application of Criteria:
+Inclusion and exclusion criteria were applied in two stages:
+title/abstract screening and full-text review. Criteria were
+operationalized using a standardized checklist aligned with
+PRISMA 2020 guidelines. Ambiguous cases were resolved through
+iterative reassessment against the predefined research questions.
+All data were used solely for the purposes of this systematic
+review, in accordance with ethical research standards.

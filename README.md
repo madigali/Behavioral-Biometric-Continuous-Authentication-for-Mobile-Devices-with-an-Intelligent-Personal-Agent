@@ -11,13 +11,42 @@
 ---
 
 ## Authors
-Madi Gali¹ — Department of Cybersecurity, Institute of Automation and Information Technologies, Satbayev University, Almaty 050013, Kazakhstan
-✉️ gali.m@stud.satbayev.university (Corresponding author)
-Aray Kassenkhan² — Department of Software Engineering, Institute of Automation and Information Technologies, Satbayev University, Almaty 050013, Kazakhstan
-Yersain Chinibayev² — Department of Software Engineering, Institute of Automation and Information Technologies, Satbayev University, Almaty 050013, Kazakhstan
-Aigerim Abshukirova³ — National Scientific Laboratory of Collective Use of Information and Space Technologies, Institute of Automation and Information Technologies, Satbayev University, Almaty 050013, Kazakhstan
-Vassiliy Serbin⁴ — Department of Information Systems, Institute of Automation and Information Technologies, Satbayev University, Almaty 050013, Kazakhstan
-✉️ v.serbin@satbayev.university (Corresponding author)
+## Authors
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>Madi Gali</b><br>
+      <sub>Dept. of Cybersecurity</sub><br>
+      <sub>✉️ Corresponding author</sub><br>
+      <a href="mailto:gali.m@stud.satbayev.university">gali.m@stud.satbayev.university</a>
+    </td>
+    <td align="center" width="200">
+      <b>Aray Kassenkhan</b><br>
+      <sub>Dept. of Software Engineering</sub>
+    </td>
+    <td align="center" width="200">
+      <b>Yersain Chinibayev</b><br>
+      <sub>Dept. of Software Engineering</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <b>Aigerim Abshukirova</b><br>
+      <sub>National Scientific Laboratory<br>of Collective Use</sub>
+    </td>
+    <td align="center" width="200">
+      <b>Vassiliy Serbin</b><br>
+      <sub>Dept. of Information Systems</sub><br>
+      <sub>✉️ Corresponding author</sub><br>
+      <a href="mailto:v.serbin@satbayev.university">v.serbin@satbayev.university</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+> All authors: Institute of Automation and Information Technologies,
+> Satbayev University, Almaty 050013, Kazakhstan
 
 ---
 

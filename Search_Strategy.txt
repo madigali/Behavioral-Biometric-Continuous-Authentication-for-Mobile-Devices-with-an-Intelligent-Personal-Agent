@@ -1,10 +1,17 @@
 Search Strategy for the Systematic Review
 ------------------------------------------
 Title: Behavioral Biometric Continuous Authentication for Mobile Devices
-        with an Intelligent Personal Agent: A Systematic Review
+       with an Intelligent Personal Agent: A Systematic Review
+
+Manuscript ID: technologies-4398074
+Journal: Technologies (ISSN 2227-7080)
 
 This systematic review was conducted and reported in accordance with
-the PRISMA 2020 guidelines.
+the PRISMA 2020 guidelines. This document accompanies Section 3.1
+("Keyword Selection and Search Criteria") and Section 4.2 ("Publication
+Trends", Figure 6, PRISMA flow diagram) of the main manuscript and
+provides full per-database, per-string detail not reproduced in the
+main text for length.
 
 ========================================================================
 DATABASES SEARCHED
@@ -17,10 +24,17 @@ DATABASES SEARCHED
 5. ScienceDirect (Elsevier)
 6. SpringerLink
 
-Search period: September 2025 -- April 2026
+Search period (database queries): September 2025 -- January 2026
+Overall project completion date (including full-text screening,
+   eligibility assessment, and snowballing -- see Section 4.2 of the
+   main manuscript): April 2026
 Language restriction: English only
 Document types: Journal articles, conference papers, review articles
-Time window of included studies: 2015--2024
+Search fields: Title, Abstract, Keywords (TI/AB/KW) only -- full text
+   was not searched (see Limitations, below)
+Time window of included primary studies: 2015--2024 (one study, included
+   via backward snowballing, predates the database search window; see
+   Section 4.2 of the main manuscript)
 
 ========================================================================
 SEARCH STRINGS
@@ -52,7 +66,7 @@ Records retrieved (before deduplication):
   IEEE Xplore     -- 118
   ACM DL          -- 47
   ScienceDirect   -- 38
-  SpringerLink     -- 29
+  SpringerLink    -- 29
   TOTAL           -- 387
 
 ------------------------------------------------------------------------
@@ -80,7 +94,7 @@ Records retrieved (before deduplication):
   IEEE Xplore     -- 56
   ACM DL          -- 28
   ScienceDirect   -- 19
-  SpringerLink     -- 14
+  SpringerLink    -- 14
   TOTAL           -- 190
 
 ------------------------------------------------------------------------
@@ -110,7 +124,7 @@ Records retrieved (before deduplication):
   IEEE Xplore     -- 204
   ACM DL          -- 76
   ScienceDirect   -- 55
-  SpringerLink     -- 33
+  SpringerLink    -- 33
   TOTAL           -- 594
 
 ------------------------------------------------------------------------
@@ -137,7 +151,7 @@ Records retrieved (before deduplication):
   IEEE Xplore     -- 81
   ACM DL          -- 37
   ScienceDirect   -- 26
-  SpringerLink     -- 18
+  SpringerLink    -- 18
   TOTAL           -- 259
 
 ------------------------------------------------------------------------
@@ -162,56 +176,103 @@ Records retrieved (before deduplication):
   IEEE Xplore     -- 97
   ACM DL          -- 41
   ScienceDirect   -- 34
-  SpringerLink     -- 22
+  SpringerLink    -- 22
   TOTAL           -- 314
 
 ========================================================================
-COMBINED TOTALS
+COMBINED TOTALS (PRISMA 2020 Identification -> Included)
 ========================================================================
 
-Total records identified across all strings and databases: ~1,744
-Duplicate records removed:                                    ~1,364
-Records submitted to title/abstract screening:                   380
-Records excluded at title/abstract stage:                         70
-Full-text articles assessed for eligibility:                     310
-Full-text articles excluded (with reasons):                      230
-  -- insufficient methodological rigor:                          100
-  -- not peer-reviewed:                                           30
-  -- duplicates identified at full-text stage:                   100
-Studies included in final review:                                 80
+Total records identified across all five strings and six databases: 1,744
+Duplicate records removed (Zotero, automated + manual verification): 1,364
+Records remaining for title/abstract screening:                        380
+Records excluded at title/abstract screening:                           70
+Full-text articles assessed for eligibility:                          310
+Full-text articles excluded (with reasons):                           230
+  -- insufficient methodological rigor:                                100
+  -- not peer-reviewed:                                                  30
+  -- duplicates not caught at initial deduplication stage:             100
+Studies included in final review:                                       80
+
+These figures correspond exactly to Figure 6 (PRISMA 2020 flow diagram)
+and to Section 4.2 of the main manuscript.
 
 ========================================================================
-ADDITIONAL SOURCES
+ADDITIONAL SOURCES (SUPPLEMENTARY TO DATABASE SEARCH)
 ========================================================================
 
 - Backward snowballing: reference lists of 12 key included reviews
-  were manually checked (completed February 2026)
+  were manually checked for additional candidates (completed
+  February 2026). This step recovered one additional study published
+  in 2019 that fell outside the primary 2017-2025 search window
+  (see Section 4.2 of the main manuscript).
 - Forward citation tracking via Google Scholar for 5 seminal papers
-  (completed March 2026)
+  (completed March 2026).
+- Newly identified records from both supplementary sources were
+  subjected to the same screening and quality-assessment pipeline
+  (Section 3.2) as database-derived records.
 
 ========================================================================
-FINAL SEARCH DATE
-========================================================================
-
-All database searches completed by: April 2026
-
-========================================================================
-DATA MANAGEMENT
+SCREENING AND DATA MANAGEMENT
 ========================================================================
 
 Retrieved records were exported in RIS format and managed using
 Zotero. Deduplication was performed automatically within Zotero,
-followed by manual verification. Screening was conducted by two
-independent reviewers using a standardized eligibility checklist.
-Disagreements were resolved by discussion; unresolved cases were
-adjudicated by a third reviewer.
+followed by manual verification. Title/abstract screening and
+full-text eligibility assessment were each conducted independently
+by two reviewers using a standardized eligibility checklist and the
+explicit inclusion/exclusion criteria reported in Section 3.2 of the
+main manuscript. Disagreements were resolved by discussion; unresolved
+cases were adjudicated by a third reviewer.
 
 ========================================================================
-NOTE ON NUMBERS
+QUALITY ASSESSMENT
 ========================================================================
 
-Record counts per string and database reflect approximate figures
-based on the review workflow. Minor discrepancies between string-level
-totals and the PRISMA flow diagram counts reflect records identified
-through supplementary snowballing that were not captured by the
-primary database queries.
+Methodological quality of all 80 included studies was assessed using
+the five-criterion, 0-2-point scoring rubric reported in full in
+Section 3.2 of the main manuscript (maximum score 10 per study;
+criteria 1 and 2 act as gatekeeping criteria). Of the 80 included
+works, 53 are primary empirical or system-level studies; the
+remaining 27 are themselves systematic reviews, narrative surveys, or
+scoping reviews retained for taxonomy construction and methodological
+precedent rather than for pooled performance metrics (see Section 3.2
+for the full citation list and rationale).
+
+========================================================================
+KNOWN LIMITATIONS OF THIS SEARCH PROTOCOL
+========================================================================
+
+1. Keyword scope: The five search strings above were deliberately
+   scoped to a constrained set of core terms and their British/
+   American spelling variants (e.g., "behavioural"/"behavioral")
+   rather than an exhaustive synonym list, to preserve precision given
+   the breadth of themes covered. Broader synonyms that were
+   considered but not included include "implicit authentication",
+   "active authentication", "passive authentication", "continuous
+   verification", and "voice assistant". Their omission may have
+   excluded a small number of relevant records indexed only under
+   those terms.
+
+2. Search field scope: All search strings, across all six databases,
+   were applied to title, abstract, and keyword fields only (TI/AB/KW);
+   full-text search was not performed. This may exclude studies in
+   which terms central to this review (e.g., "intelligent personal
+   agent" or "behavioral biometric continuous authentication") appear
+   primarily in the body text rather than in the title, abstract, or
+   keywords.
+
+Both limitations are disclosed here, and in Section 3.1 of the main
+manuscript, as constraints on recall rather than retroactively
+corrected, since addressing them would require re-executing the
+search under a revised protocol.
+
+========================================================================
+NOTE ON RECORD COUNTS
+========================================================================
+
+Record counts per string and per database reflect the actual review
+workflow as logged during execution. Minor differences between
+string-level subtotals and the combined PRISMA totals above are
+accounted for by the deduplication and snowballing steps described
+above, and are fully reconciled in the combined totals section.

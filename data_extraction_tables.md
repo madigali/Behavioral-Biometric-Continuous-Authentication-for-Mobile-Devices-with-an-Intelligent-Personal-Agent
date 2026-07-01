@@ -108,8 +108,7 @@ Attack model, Energy/Latency, Code/Data public); remaining fields from manuscrip
 **On N (participants):**
 Values from NotebookLM extraction of original papers. NR = not reported.
 
-**On Performance:**
-Best single metric reported in each paper as extracted by NotebookLM.
+
 EER preferred over Accuracy where both available.
 
 ---

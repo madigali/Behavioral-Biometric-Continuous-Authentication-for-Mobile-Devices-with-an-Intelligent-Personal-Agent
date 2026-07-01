@@ -89,12 +89,6 @@ Attack model, Energy/Latency, Code/Data public); remaining fields from manuscrip
 
 ## Notes
 
-**Remaining NR after two NotebookLM extraction rounds (3 studies):**
-
-* \[28] Wang et al. (2021) — gait K-NN+CNN paper; PDF not successfully parsed
-* \[47] Zou et al. (2020) — in-the-wild gait recognition; PDF not successfully parsed
-* \[70] Sun et al. (2020) — elderly gait wearable healthcare; PDF not successfully parsed
-
 **NR by design — no quantitative experiments reported (7 studies):**
 \[1] Skalkos (user survey), \[12] Khan (system description), \[19] Lopez (conceptual),
 \[20] Ağca (framework proposal), \[33] Bakkar (prototype demo),
